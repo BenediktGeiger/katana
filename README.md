@@ -62,7 +62,7 @@ npm run test
 
 
 
-In order to run the application natively a mongo must be running on 127.0.0.1:27017 and the environment variables needs to be changed to 
+In order to run the application natively a mongo instance must be running on 127.0.0.1:27017 and the environment variables needs to be changed to 
 ```
 DB_HOST=127.0.0.1
 DB_NAME=decks
